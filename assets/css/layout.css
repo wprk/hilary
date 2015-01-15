@@ -296,7 +296,7 @@ a, a:hover {
 		text-align:center;
 		-webkit-font-smoothing: antialiased;
 		overflow:hidden !important;
-		padding-top:60px;
+		padding-top: 60px;
 	}
 
 	section.contentFullSlider {
@@ -922,7 +922,32 @@ h4.panel-title a i {
 			position:absolute !important;
 		}
 
+/** 04.2 Professional Foot Care
+ *************************************************** **/
+	#professional-foot-care {
+		padding-top: 150px;
+	}
+	
+/** 04.6 Common Ailments
+ *************************************************** **/
+	#common-ailments img {
+		padding-bottom: 20px;
+	}
 
+	#common-ailments h4 {
+		border-bottom: solid 1px #ccc;
+	}
+	
+	#common-ailments h5 {
+		padding: 10px 0 0 0;
+	}
+	
+	#common-ailments p {
+	}
+	
+	#common-ailments .pad-bottom {
+		padding-bottom: 50px;
+	}
 
 /** 05. Services
  **************************************************************** **/
